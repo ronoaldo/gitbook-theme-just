@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-theme-just",
+    "description": "Simple theme for gitbook",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/ronoaldo/gitbook-theme-just",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ronoaldo/gitbook-theme-just.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/ronoaldo/gitbook-theme-just/issues"
+    }
+}
